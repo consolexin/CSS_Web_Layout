@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 800px;
+    height: 600px;
+    background-color: #ccc;
+    margin: 0 auto;
+}
+.left{
+    width: 200px;
+    height: 600px;
+    background-color: yellow;
+    float: left;
+}
+.right{
+    width: 600px;
+    height: 600px;
+    background-color: #369;
+    float: left;
+}
+.sub_l{
+    width: 400px;
+    height: 600px;
+    background-color: green;
+    float:left;
+}
+.sub_r{
+    width: 200px;
+    height: 600px;
+    background-color: #09f;
+    float: left;
+}
+.top{
+    height: 100px;
+    background-color: blue;
+}
+.head{
+    height: 100px;
+    width: 800px;
+    background-color: #f60;
+    margin: 0 auto;
+}
+.foot{
+    width: 800px;
+    height: 100px;
+    background-color: #900;
+    margin: 0 auto;
+ }

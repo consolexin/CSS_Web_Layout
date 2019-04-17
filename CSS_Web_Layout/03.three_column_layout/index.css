@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/*.main{*/
+    /*width: 800px;*/
+    /*margin: 0 auto;*/
+/*}*/
+.left{
+    width: 33.3%;
+    height: 500px;
+    float: left;
+    background-color: #ccc;
+}
+.middle{
+    width: 33.3%;
+    height: 500px;
+    float: left;
+    background-color: #999;
+}
+.right{
+    width: 33.3%;
+    height: 500px;
+    float: right;
+    background-color: #ddd;
+}
